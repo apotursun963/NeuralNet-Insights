@@ -29,7 +29,7 @@ Yapay sinir ağı, weight ve bias güncellenmesiyle öğrenir. Bu süreç, **ile
 ## Kaynaklar
 - **Kitaplar**
     - [Derin Öğreme - lan Goodfellow, Yoshua Bengio, Aaron Courville](https://www.deeplearningbook.org/)
-    - [Derin Öğrenme - Atınç Yılmaz, Umut Kaya](https://media.licdn.com/dms/image/v2/C4D12AQFDF9z0ln1kpw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1632038701154?e=2147483647&v=beta&t=BjA2nwSNg9EgS0h2qqaA6qMZXvEwSyS2rl4hsJpHdDY)
+    - [Derin Öğrenme - Atınç Yılmaz, Umut Kaya](https://www.kodlab.com/muhendislik/96-derin-ogrenme-9786052118399.html?srsltid=AfmBOopzYaV1_eiyn1E0mtkQw69KwHCYiEFQ74JFMJvLIWywWWdUypLR)
 
 - **Videolar**
     - [But what is a neural network? | Deep learning chapter 1  ](https://www.youtube.com/watch?v=aircAruvnKk&t=186s)
