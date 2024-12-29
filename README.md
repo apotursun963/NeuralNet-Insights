@@ -25,3 +25,17 @@ Yapay sinir ağı, weight ve bias güncellenmesiyle öğrenir. Bu süreç, **ile
 ![YSA](https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41377-024-01590-3/MediaObjects/41377_2024_1590_Fig3_HTML.png)
 
 Öztele, YSA, nöronların birbirleriyle bağlantı kurarak oluşturduğu yapılar olup, insan beynindeki sinir ağlarını taklit eder. *Girdi*, *gizli* ve *çıktı* nöronlarından oluşan katmanlara sahiptir. Nöronlar arasındaki bağlantılar ağırlıklarla ifade edilir ve bu ağırlıklar bağlantının gücünü belirler. Nöronlar, kendilerine gelen girdileri toplar, ağırlıklarla çarpar ve bir sapma ekler. Aktivasyon fonksiyonu ile işlem sonucu elde edilir. YSA'nın öğrenme süreci, ileri yayılım ve geri yayılım aşamalarıyla ağırlıkların ve önyargıların güncellenmesiyle gerçekleşir. Bu sayede YSA, karmaşık problemleri çözebilir.
+
+## Kaynaklar
+- **Kitaplar**
+    - [Derin Öğreme - lan Goodfellow, Yoshua Bengio, Aaron Courville](https://www.deeplearningbook.org/)
+    - [Derin Öğrenme - Atınç Yılmaz, Umut Kaya](https://media.licdn.com/dms/image/v2/C4D12AQFDF9z0ln1kpw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1632038701154?e=2147483647&v=beta&t=BjA2nwSNg9EgS0h2qqaA6qMZXvEwSyS2rl4hsJpHdDY)
+
+- **Videolar**
+    - [But what is a neural network? | Deep learning chapter 1  ](https://www.youtube.com/watch?v=aircAruvnKk&t=186s)
+    - [I Built a Neural Network from Scratch](https://www.youtube.com/watch?v=cAkMcPfY_Ns&t=30s)
+    - [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://www.youtube.com/watch?v=w8yWXqWQYmU&t=83s)
+
+- **Makaleler**
+    - [Neural network (machine learning)](https://en.wikipedia.org/wiki/Neural_network_(machine_learning))
+    - [What is a Neural Network?](https://aws.amazon.com/what-is/neural-network/)
