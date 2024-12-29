@@ -28,7 +28,7 @@ Yapay sinir ağı, weight ve bias güncellenmesiyle öğrenir. Bu süreç, **ile
 
 ## Kaynaklar
 - **Kitaplar**
-    - [Derin Öğreme - lan Goodfellow, Yoshua Bengio, Aaron Courville](https://i.ebayimg.com/images/g/D-oAAOSwyexmQ-ih/s-l400.jpg)
+    - [Derin Öğreme - lan Goodfellow, Yoshua Bengio, Aaron Courville](https://www.kitapyurdu.com/kitap/derin-ogrenme-ciltli/480279.html?srsltid=AfmBOopJ99_exUs6QL8fJwm9jyqKGUcQxVLEqQ5uvhp04DlwMUp1BzQ4)
     - [Derin Öğrenme - Atınç Yılmaz, Umut Kaya](https://www.kodlab.com/muhendislik/96-derin-ogrenme-9786052118399.html?srsltid=AfmBOopzYaV1_eiyn1E0mtkQw69KwHCYiEFQ74JFMJvLIWywWWdUypLR)
 
 - **Videolar**
