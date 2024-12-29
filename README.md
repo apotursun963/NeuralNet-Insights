@@ -19,8 +19,8 @@ Nöronlar YSA'nın Ana bileşenlerindendir. daha fazla bilgi için [Nöronlar](.
 
 ## YSA'nın öğrenme süreci
 Yapay sinir ağı, weight ve bias güncellenmesiyle öğrenir. Bu süreç, **ileri besleme** ve **geri yayılım** olarak iki ana aşamadan oluşur.
-- **İleri Besleme (Feed Forward)**: Girdiler, Girdi katmanından başlayarak ağın son katmanına kadar iler ve her nöronun çıktısı hesaplanır.
-- **Geri Yayılım (Backpropagation)**: Ağın öğrenme sürecinde, tahmin edilen çıktılar ile gerçek çıktılar arasındaki **hata** hesaplanır ve bu hata, ağırlıkların ve bias'ların güncellenmesi için kullanılır. Bu süreç, *gradyan iniş* algoritması ile gerçekleştirilir. 
+- **İleri Besleme (Feed Forward)**: İnput verileri input katmanından başlayarak ağın son katmanınana kadar ilerler. her bir katmandaki nöronlar aldığı inputları **ağırlıklandırır**, **bias** ekler ve **aktivasyon fonksiyonunu** uygular ve bir çıktı üretir. her nöronun çıktısı bir sonraki katmandaki nöronun inputu olur ve bu işlem ağın son katmanına kadar ilerler. ileri besleme hareketinde bilgi sadece `tek yönlü` ileri doğru yol almaktadır. Bu işlem ağın o andaki tahminini/sonucunu hesaplamak için kullanılır.
+- **Geri Yayılım (Backpropagation)**: Ağın öğrenme sürecinde, tahmin edilen çıktılar ile gerçek çıktılar arasındaki **hata** hesaplanır ve bu hata, ağırlıkların ve bias'ların güncellenmesi için kullanılır. Bu süreç, *Gradyan İniş (Gradient Descent)* algoritması ile gerçekleştirilir. 
 
 ![YSA](https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41377-024-01590-3/MediaObjects/41377_2024_1590_Fig3_HTML.png)
 
