@@ -3,7 +3,7 @@
 Yapay Sinir Ağları, derin öğrenmenin temelini oluşturur ve insan beynindeki sinir hücrelerinden esinlenerek geliştirilmiştir. Sinir ağı, çok sayıda nöronun (yapay sinir hücreleri) birbirine bağlı olduğu ve verilerin işlenerek sonuçların üretildiği bir yapıdır. Bu ağ, girdileri alır, işleyerek çıktılar üretir ve öğrenme süreci sayesinde modelin performansını artırır.
 
 ## Yapay sinir ağlarının temel bileşenleri
-Nöronlar YSA'nın Ana bileşenlerindendir. daha fazla bilgi için [Nöronlar](./01_Neuron/neuron.md)
+Nöronlar YSA'nın Ana bileşenlerindendir. daha fazla bilgi için [Nöronlar](01_Neuron/neuron.md)
 
 - **Sinaps (Synapse)**: Sinaplar, Nöronlar arasındaki bağlantıları temsil eder. Her bağlantının bir ağırlığı vardır ve bu bağlantıların gücünü belirler. Bağlantılar, bilgi iletimini sağlar ve nöronlar arasındaki etkileşimi düzenler.
 
